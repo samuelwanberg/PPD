@@ -1,0 +1,3 @@
+'''
+    RabbitMQapi Directory
+'''
